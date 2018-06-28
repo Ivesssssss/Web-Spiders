@@ -1,2 +1,2 @@
 # Web-Spiders
-python web crawlers
+My study route for web-crawler using scrapy framework and beautifulsoup. 
